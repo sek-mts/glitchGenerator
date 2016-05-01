@@ -1,0 +1,1 @@
+C:\Dev\GitHub\glitchGenerator\glitchGenerator\glitchGenerator\bin\Debug\glitchGenerator.exe.config
